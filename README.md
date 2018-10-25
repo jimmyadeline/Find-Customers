@@ -4,17 +4,16 @@ In this project, I apply unsupervised learning techniques to identify segments o
 
 ### Main Steps:
 
-    Load Package and Data
-    Data Preprocessing
+Data Preprocessing
         Assess Missing Data
         Select and Re-Encode Features
         Overall Cleaning Function
-    Feature Transformation
+Feature Transformation
         Apply Feature Scaling
         Perform Dimensionality Reduction (PCA)
         Interpret Principal Components
-    Clustering (K-means)
+Clustering (K-means)
         Apply Clustering to General Population
         Apply All Steps to the Customer Data
         Compare Customer Data to Demographics Data
-    Conclusion
+Conclusion
